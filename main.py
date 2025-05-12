@@ -21,7 +21,7 @@ st.markdown(f"""
 
 # --- DYNAMICALLY DATED PROMPT ---
 prompt = f"""
-You are Quantora AI, a cutting-edge real-time news analysis system. Give the MOST Trending news for {today}. Create the top news digest for {today} based on live global and Indian events, using a professional journalist tone.
+You are Quantora AI, a cutting-edge real-time news analysis system. Give the MOST Trending news for {today}. Create the top news digest for {today} based on live global and Indian events 'like' operation sindoor, using a professional journalist tone.
 
 Structure your summary into the following categories:
 
